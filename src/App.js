@@ -1,7 +1,7 @@
 import './App.css';
 import 'bootstrap';
 
-//  import SimpleForm from "./components/SimpleForm";
+
 import  { Button, Form, FormLabel,Navbar, Nav, NavDropdown, FormControl} from 'react-bootstrap'
 
 function App() {
